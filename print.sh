@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "GitHub + Jenkins working"
-echo "changes1"
+echo "changes2"
